@@ -6,6 +6,7 @@ getting other Make-based solutions to work on my computer.
 Presuming you have docker, `run.sh` should be all thats needed.
 
 > Code 
+
 A couple python scripts in `source` do the work, shelling out to a few linux
 utilities here and there. The pdfs they generate are dictated by the input file
 lists in `file_lists`. This (should)could probably be automated by scraping the `toc.html`
